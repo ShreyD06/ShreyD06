@@ -17,10 +17,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ShreyD06&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyD06&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyD06&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 📊GitHub Stats : ![](https://github-readme-stats.vercel.app/api?username=ShreyD06&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyD06&theme=monokai&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyD06&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShreyD06&icon=9&color=3)](https://visitcount.itsvg.in)
