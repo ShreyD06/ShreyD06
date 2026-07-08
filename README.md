@@ -1,6 +1,6 @@
 # 💫About Me :
 - Working on learning software development across multiple platforms.
-- Interested in Machine Learning projects, specifically for environmental forecasting and climate change mitigation
+- Interested in Machine Learning projects (environmental forecasting and climate change mitigation, MLOps, and spatiotemporal forecasting)
 - That's it for now !
 
 ## 🌐 Socials / Links
